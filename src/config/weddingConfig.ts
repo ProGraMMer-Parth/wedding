@@ -4,7 +4,7 @@ import haldiMornings from "@/assets/haldi-mornings.jpg.asset.json";
 import sangeet from "@/assets/sangeet.jpg";
 import mandap from "@/assets/mandap.jpg";
 import mehendi from "@/assets/mehendi.jpg";
-import venueTemple from "@/assets/chandkheri-mandir.jpg.asset.json";
+import venueTemple from "@/assets/venue-temple.jpg";
 import goldenHourCouple from "@/assets/golden-hour-couple.jpeg.asset.json";
 
 /**
@@ -131,7 +131,7 @@ export const weddingConfig = {
     shortName: "Chandkheri Jain Mandir",
     address: "Chandkheri, Khanpur, Jhalawar District, Rajasthan, India",
     note: "A centuries-old temple complex, at its most beautiful in the November light.",
-    image: venueTemple.url,
+    image: venueTemple,
     imageAlt: "Pink sandstone facade of Chandkheri Digambar Jain Mandir with carved arches",
     directionsUrl:
       "https://www.google.com/maps/search/?api=1&query=Chandkheri+Digambar+Jain+Mandir+Khanpur+Jhalawar",
