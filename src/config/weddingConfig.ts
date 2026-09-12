@@ -4,7 +4,7 @@ import haldiMornings from "@/assets/haldi-mornings.jpg.asset.json";
 import sangeet from "@/assets/sangeet.jpg";
 import mandap from "@/assets/mandap.jpg";
 import mehendi from "@/assets/mehendi.jpg";
-import venueTemple from "@/assets/venue-temple.jpg";
+import venueTemple from "@/assets/venue-temple.jpeg";
 import goldenHourCouple from "@/assets/golden-hour-couple.jpeg.asset.json";
 
 /**
